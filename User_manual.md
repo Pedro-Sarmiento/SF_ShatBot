@@ -3,8 +3,6 @@
 Welcome to the user manual for our Singular factory chatbot! This manual will guide you through the features and functionalities of our application.
 
 ## Table of contents
-- [Singular Factory Chatbot | User Manual](#singular-factory-chatbot--user-manual)
-  - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
     - [Installation](#installation)
