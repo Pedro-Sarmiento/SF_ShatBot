@@ -1,0 +1,19 @@
+.whisper-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .flag-container {
+    margin: 20px;
+    display: inline;
+  }
+  
+  .flag {
+    width: 700px;
+    height:500px; 
+    object-fit: cover;
+  }
+  
+  
