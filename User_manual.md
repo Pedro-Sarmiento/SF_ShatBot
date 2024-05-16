@@ -41,13 +41,14 @@ To use our app, follow these steps :
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/Pedro-Sarmiento/SF_ShatBot
    ```
 
 2. Install dependencies:
    ```bash
-   cd your-app-directory
+   cd cliente
    npm install  # For React dependencies
+   cd server
    pip install -r requirements.txt  # For Flask dependencies
    ```
 
